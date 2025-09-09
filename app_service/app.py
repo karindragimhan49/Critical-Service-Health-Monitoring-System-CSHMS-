@@ -15,4 +15,5 @@ def home():
     return f"<h1>Hello! I am the Critical Service.</h1><p>My Process ID (PID) is: {pid}</p>"
 
 if __name__ == '__main__':
+    # Make sure it runs on port 8080 to match our health check
     app.run(host='0.0.0.0', port=5000)

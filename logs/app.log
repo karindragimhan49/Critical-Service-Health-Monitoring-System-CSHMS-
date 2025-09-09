@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/mnt/d/DEVOPS/Critical-Service-Health-Monitoring-System-CSHMS-/scripts/../app_service/app.py", line 1, in <module>
+    from flask import Flask, jsonify
+ModuleNotFoundError: No module named 'flask'
