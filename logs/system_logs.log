@@ -1,0 +1,369 @@
+--- Starting Monitoring Loop ---
+[2025-09-10 01:20:30] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  566
+[2025-09-10 01:20:30] INFO: Application restart command issued.
+[2025-09-10 01:20:41] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  585
+[2025-09-10 01:20:41] INFO: Application restart command issued.
+[2025-09-10 01:20:51] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  597
+[2025-09-10 01:20:51] INFO: Application restart command issued.
+[2025-09-10 01:21:01] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  609
+[2025-09-10 01:21:01] INFO: Application restart command issued.
+[2025-09-10 01:21:11] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  621
+[2025-09-10 01:21:11] INFO: Application restart command issued.
+[2025-09-10 01:21:21] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  645
+[2025-09-10 01:21:21] INFO: Application restart command issued.
+[2025-09-10 01:21:31] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  662
+[2025-09-10 01:21:31] INFO: Application restart command issued.
+[2025-09-10 01:21:41] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  674
+[2025-09-10 01:21:41] INFO: Application restart command issued.
+[2025-09-10 01:21:51] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  686
+[2025-09-10 01:21:51] INFO: Application restart command issued.
+[2025-09-10 01:22:01] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  711
+[2025-09-10 01:22:01] INFO: Application restart command issued.
+[2025-09-10 01:22:11] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  744
+[2025-09-10 01:22:11] INFO: Application restart command issued.
+[2025-09-10 01:22:21] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  756
+[2025-09-10 01:22:21] INFO: Application restart command issued.
+[2025-09-10 01:22:31] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  768
+[2025-09-10 01:22:31] INFO: Application restart command issued.
+[2025-09-10 01:22:41] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  780
+[2025-09-10 01:22:42] INFO: Application restart command issued.
+[2025-09-10 01:22:52] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  792
+[2025-09-10 01:22:52] INFO: Application restart command issued.
+[2025-09-10 01:23:02] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  804
+[2025-09-10 01:23:02] INFO: Application restart command issued.
+[2025-09-10 01:23:12] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  818
+[2025-09-10 01:23:12] INFO: Application restart command issued.
+[2025-09-10 01:23:22] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  830
+[2025-09-10 01:23:22] INFO: Application restart command issued.
+[2025-09-10 01:23:32] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  842
+[2025-09-10 01:23:32] INFO: Application restart command issued.
+[2025-09-10 01:23:42] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  872
+[2025-09-10 01:23:42] INFO: Application restart command issued.
+[2025-09-10 01:23:52] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  889
+[2025-09-10 01:23:52] INFO: Application restart command issued.
+[2025-09-10 01:24:02] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  901
+[2025-09-10 01:24:02] INFO: Application restart command issued.
+[2025-09-10 01:24:12] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  913
+[2025-09-10 01:24:12] INFO: Application restart command issued.
+[2025-09-10 01:24:22] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  927
+[2025-09-10 01:24:22] INFO: Application restart command issued.
+[2025-09-10 01:24:32] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  943
+[2025-09-10 01:24:32] INFO: Application restart command issued.
+[2025-09-10 01:24:42] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  955
+[2025-09-10 01:24:42] INFO: Application restart command issued.
+[2025-09-10 01:24:52] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  967
+[2025-09-10 01:24:53] INFO: Application restart command issued.
+[2025-09-10 01:25:03] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  979
+[2025-09-10 01:25:03] INFO: Application restart command issued.
+[2025-09-10 01:25:13] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  993
+[2025-09-10 01:25:13] INFO: Application restart command issued.
+[2025-09-10 01:25:23] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1007
+[2025-09-10 01:25:23] INFO: Application restart command issued.
+[2025-09-10 01:25:33] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1019
+[2025-09-10 01:25:33] INFO: Application restart command issued.
+[2025-09-10 01:25:43] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1031
+[2025-09-10 01:25:43] INFO: Application restart command issued.
+[2025-09-10 01:25:53] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1043
+[2025-09-10 01:25:53] INFO: Application restart command issued.
+--- Starting Monitoring Loop ---
+[2025-09-10 01:26:02] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1058
+[2025-09-10 01:26:02] INFO: Application restart command issued.
+[2025-09-10 01:26:12] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1082
+[2025-09-10 01:26:12] INFO: Application restart command issued.
+[2025-09-10 01:26:22] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1098
+[2025-09-10 01:26:22] INFO: Application restart command issued.
+[2025-09-10 01:26:32] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1112
+[2025-09-10 01:26:32] INFO: Application restart command issued.
+[2025-09-10 01:26:42] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1124
+[2025-09-10 01:26:43] INFO: Application restart command issued.
+--- Starting Monitoring Loop ---
+[2025-09-10 01:26:47] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1139
+[2025-09-10 01:26:47] INFO: Application restart command issued.
+[2025-09-10 01:26:57] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1162
+[2025-09-10 01:26:57] INFO: Application restart command issued.
+[2025-09-10 01:27:07] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1184
+[2025-09-10 01:27:07] INFO: Application restart command issued.
+[2025-09-10 01:27:17] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1210
+[2025-09-10 01:27:17] INFO: Application restart command issued.
+[2025-09-10 01:27:28] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1226
+[2025-09-10 01:27:28] INFO: Application restart command issued.
+[2025-09-10 01:27:38] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1238
+[2025-09-10 01:27:38] INFO: Application restart command issued.
+[2025-09-10 01:27:48] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1250
+[2025-09-10 01:27:48] INFO: Application restart command issued.
+[2025-09-10 01:27:58] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1264
+[2025-09-10 01:27:58] INFO: Application restart command issued.
+[2025-09-10 01:28:08] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1276
+[2025-09-10 01:28:08] INFO: Application restart command issued.
+[2025-09-10 01:28:18] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1288
+[2025-09-10 01:28:18] INFO: Application restart command issued.
+[2025-09-10 01:28:28] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1300
+[2025-09-10 01:28:28] INFO: Application restart command issued.
+[2025-09-10 01:28:38] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1312
+[2025-09-10 01:28:38] INFO: Application restart command issued.
+[2025-09-10 01:28:48] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1324
+[2025-09-10 01:28:48] INFO: Application restart command issued.
+[2025-09-10 01:28:58] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1336
+[2025-09-10 01:28:58] INFO: Application restart command issued.
+[2025-09-10 01:29:08] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1348
+[2025-09-10 01:29:09] INFO: Application restart command issued.
+[2025-09-10 01:29:19] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1360
+[2025-09-10 01:29:19] INFO: Application restart command issued.
+[2025-09-10 01:29:29] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1372
+[2025-09-10 01:29:29] INFO: Application restart command issued.
+[2025-09-10 01:29:39] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1386
+[2025-09-10 01:29:39] INFO: Application restart command issued.
+[2025-09-10 01:29:49] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1398
+[2025-09-10 01:29:49] INFO: Application restart command issued.
+[2025-09-10 01:29:59] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1410
+[2025-09-10 01:29:59] INFO: Application restart command issued.
+[2025-09-10 01:30:09] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1424
+[2025-09-10 01:30:09] INFO: Application restart command issued.
+[2025-09-10 01:30:19] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1436
+[2025-09-10 01:30:19] INFO: Application restart command issued.
+[2025-09-10 01:30:29] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1448
+[2025-09-10 01:30:29] INFO: Application restart command issued.
+[2025-09-10 01:30:39] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1460
+[2025-09-10 01:30:39] INFO: Application restart command issued.
+[2025-09-10 01:30:49] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1472
+[2025-09-10 01:30:50] INFO: Application restart command issued.
+[2025-09-10 01:31:00] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1484
+[2025-09-10 01:31:00] INFO: Application restart command issued.
+[2025-09-10 01:31:10] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1496
+[2025-09-10 01:31:10] INFO: Application restart command issued.
+[2025-09-10 01:31:20] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1510
+[2025-09-10 01:31:20] INFO: Application restart command issued.
+[2025-09-10 01:31:30] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1524
+[2025-09-10 01:31:30] INFO: Application restart command issued.
+[2025-09-10 01:31:40] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1536
+[2025-09-10 01:31:40] INFO: Application restart command issued.
+[2025-09-10 01:31:50] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1548
+[2025-09-10 01:31:50] INFO: Application restart command issued.
+[2025-09-10 01:32:00] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1560
+[2025-09-10 01:32:00] INFO: Application restart command issued.
+[2025-09-10 01:32:10] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1572
+[2025-09-10 01:32:10] INFO: Application restart command issued.
+[2025-09-10 01:32:20] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1584
+[2025-09-10 01:32:20] INFO: Application restart command issued.
+[2025-09-10 01:32:30] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1596
+[2025-09-10 01:32:30] INFO: Application restart command issued.
+[2025-09-10 01:32:40] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1608
+[2025-09-10 01:32:40] INFO: Application restart command issued.
+[2025-09-10 01:32:51] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1620
+[2025-09-10 01:32:51] INFO: Application restart command issued.
+[2025-09-10 01:33:01] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1632
+[2025-09-10 01:33:01] INFO: Application restart command issued.
+[2025-09-10 01:33:11] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1644
+[2025-09-10 01:33:11] INFO: Application restart command issued.
+--- Starting Monitoring Loop ---
+[2025-09-10 01:37:31] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1703
+[2025-09-10 01:37:31] INFO: Application restart command issued.
+[2025-09-10 01:37:46] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1727
+[2025-09-10 01:37:46] INFO: Application restart command issued.
+[2025-09-10 01:38:02] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1743
+[2025-09-10 01:38:02] INFO: Application restart command issued.
+[2025-09-10 01:38:17] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1756
+[2025-09-10 01:38:17] INFO: Application restart command issued.
+[2025-09-10 01:38:32] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1769
+[2025-09-10 01:38:32] INFO: Application restart command issued.
+--- Starting Monitoring Loop ---
+[2025-09-10 01:39:11] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1841
+[2025-09-10 01:39:11] INFO: Application restart command issued.
+[2025-09-10 01:39:26] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1865
+[2025-09-10 01:39:26] INFO: Application restart command issued.
+[2025-09-10 01:39:41] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1882
+[2025-09-10 01:39:41] INFO: Application restart command issued.
+[2025-09-10 01:39:56] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1895
+[2025-09-10 01:39:56] INFO: Application restart command issued.
+[2025-09-10 01:40:11] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1909
+[2025-09-10 01:40:11] INFO: Application restart command issued.
+[2025-09-10 01:40:26] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1922
+[2025-09-10 01:40:26] INFO: Application restart command issued.
+[2025-09-10 01:40:41] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1935
+[2025-09-10 01:40:41] INFO: Application restart command issued.
+[2025-09-10 01:40:56] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1950
+[2025-09-10 01:40:56] INFO: Application restart command issued.
+[2025-09-10 01:41:11] CRITICAL: Application is down! Attempting to restart...
+Starting the Critical application
+Application Started with PID  1963
+[2025-09-10 01:41:11] INFO: Application restart command issued.
